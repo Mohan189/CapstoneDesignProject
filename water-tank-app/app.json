@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Smart Water Tank Manager",
+    "slug": "water-tank-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": null,
+    "splash": {
+      "image": null,
+      "resizeMode": "contain",
+      "backgroundColor": "#E3F2FD"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": null,
+        "backgroundColor": "#E3F2FD"
+      },
+      "package": "com.watertank.app"
+    },
+    "web": {
+      "favicon": null
+    }
+  }
+}
